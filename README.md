@@ -21,7 +21,7 @@ Contributions are welcome! If you have any tips, tricks, or examples related to 
 
 ## Credits
 
-This repository was created by [me](https://github.com/FREDVUNI). If you have any questions or feedback, feel free to contact me at [your.email@example.com](mailto:fredvuni809@gmail.com).
+This repository was created by [me](https://github.com/FREDVUNI). If you have any questions or feedback, feel free to contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com).
 
 ## License
 
