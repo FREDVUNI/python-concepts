@@ -54,23 +54,3 @@ def process_command(command, account, bad_commands):
             bad_commands.append(command)
 
     return True
-
-
-initial_balance = float(input("Creating account. Input initial balance: "))
-account = GoCardAccount(initial_balance)
-bad_commands = []
-
-command = input("? ")
-while process_command(command, account, bad_commands):
-    command = input("? ")
-
-final_balance = account.get_balance()
-
-print("Statement:")
-print("event            amount ($)  balance ($)")
-print("Initial balance              {:.2f}".format(initial_balance))
-for transaction in account.transactions[1:]:
-    event, amount, balance = transaction
-    print("{:<20}{:<12.2f}{:<12.2f}".format(event, amount, balance))
-
-print("Final balance\t\t\t{:.2f}".format(final_balance))
