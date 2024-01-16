@@ -1,0 +1,379 @@
+========== Similar But Different ==========
+output.txt: ./2019/09/10/AICS0L.zip
+products.txt: ./2019/09/10/AICS0L.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0LA.zip
+products.txt: ./2019/09/10/AICS0LA.zip
+------------------------------
+output.txt: ./2019/09/10/1694D.zip
+products.txt: ./2019/09/10/1694D.zip
+------------------------------
+output.txt: ./2019/09/10/1321B.zip
+products.txt: ./2019/09/10/1321B.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD02.zip
+products.txt: ./2019/09/10/PAM3DCHILD02.zip
+------------------------------
+output.txt: ./2019/09/10/AIBCD3.zip
+products.txt: ./2019/09/10/AIBCD3.zip
+------------------------------
+output.txt: ./2019/09/10/1880E.zip
+products.txt: ./2019/09/10/1880E.zip
+------------------------------
+output.txt: ./2019/09/10/1778B.zip
+products.txt: ./2019/09/10/1778B.zip
+------------------------------
+output.txt: ./2019/09/10/1410E.zip
+products.txt: ./2019/09/10/1410E.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY02.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY02.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD01.zip
+products.txt: ./2019/09/10/PAM3DCHILD01.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD08.zip
+products.txt: ./2019/09/10/PAM3DCHILD08.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0TC.zip
+products.txt: ./2019/09/10/AICS0TC.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0YA.zip
+products.txt: ./2019/09/10/AICS0YA.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0N.zip
+products.txt: ./2019/09/10/AICS0N.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0NB.zip
+products.txt: ./2019/09/10/AICS0NB.zip
+------------------------------
+output.txt: ./2019/09/10/Mermaid%20Queen_S_lowdensity.zip
+products.txt: ./2019/09/10/Mermaid%20Queen_S_lowdensity.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0R.zip
+products.txt: ./2019/09/10/AICS0R.zip
+------------------------------
+output.txt: ./2019/09/10/1571C.zip
+products.txt: ./2019/09/10/1571C.zip
+------------------------------
+output.txt: ./2019/09/10/P00127.zip
+products.txt: ./2019/09/10/P00127.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0SA.zip
+products.txt: ./2019/09/10/AICS0SA.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLBABYPIN.zip
+products.txt: ./2019/09/10/SDBLBABYPIN.zip
+------------------------------
+output.txt: ./2019/09/10/1059C.zip
+products.txt: ./2019/09/10/1059C.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0SC.zip
+products.txt: ./2019/09/10/AICS0SC.zip
+------------------------------
+output.txt: ./2019/09/10/1370A.zip
+products.txt: ./2019/09/10/1370A.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0LC.zip
+products.txt: ./2019/09/10/AICS0LC.zip
+------------------------------
+output.txt: ./2019/09/10/1370E.zip
+products.txt: ./2019/09/10/1370E.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY10.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY10.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD05.zip
+products.txt: ./2019/09/10/PAM3DCHILD05.zip
+------------------------------
+output.txt: ./2019/09/10/1833E.zip
+products.txt: ./2019/09/10/1833E.zip
+------------------------------
+output.txt: ./2019/09/10/D-3543%20Tee%20Up_L.zip
+products.txt: ./2019/09/10/D-3543%20Tee%20Up_L.zip
+------------------------------
+output.txt: ./2019/09/10/1682E.zip
+products.txt: ./2019/09/10/1682E.zip
+------------------------------
+output.txt: ./2019/09/10/1047A.zip
+products.txt: ./2019/09/10/1047A.zip
+------------------------------
+output.txt: ./2019/09/10/AIBCD2B.zip
+products.txt: ./2019/09/10/AIBCD2B.zip
+------------------------------
+output.txt: ./2019/09/10/1678A.zip
+products.txt: ./2019/09/10/1678A.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0TA.zip
+products.txt: ./2019/09/10/AICS0TA.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0T.zip
+products.txt: ./2019/09/10/AICS0T.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD06.zip
+products.txt: ./2019/09/10/PAM3DCHILD06.zip
+------------------------------
+output.txt: ./2019/09/10/1193A.zip
+products.txt: ./2019/09/10/1193A.zip
+------------------------------
+output.txt: ./2019/09/10/1707F.zip
+products.txt: ./2019/09/10/1707F.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLILOVEM2.zip
+products.txt: ./2019/09/10/SDBLILOVEM2.zip
+------------------------------
+output.txt: ./2019/09/10/1801E.zip
+products.txt: ./2019/09/10/1801E.zip
+------------------------------
+output.txt: ./2019/09/10/1627C.zip
+products.txt: ./2019/09/10/1627C.zip
+------------------------------
+output.txt: ./2019/09/10/1370D.zip
+products.txt: ./2019/09/10/1370D.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0RA.zip
+products.txt: ./2019/09/10/AICS0RA.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0Y.zip
+products.txt: ./2019/09/10/AICS0Y.zip
+------------------------------
+output.txt: ./2019/09/10/1039F.zip
+products.txt: ./2019/09/10/1039F.zip
+------------------------------
+output.txt: ./2019/09/10/AIBCD2J.zip
+products.txt: ./2019/09/10/AIBCD2J.zip
+------------------------------
+output.txt: ./2019/09/10/1369U.zip
+products.txt: ./2019/09/10/1369U.zip
+------------------------------
+output.txt: ./2019/09/10/AIBCD2A.zip
+products.txt: ./2019/09/10/AIBCD2A.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0M.zip
+products.txt: ./2019/09/10/AICS0M.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY11.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY11.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLBOYFACE.zip
+products.txt: ./2019/09/10/SDBLBOYFACE.zip
+------------------------------
+output.txt: ./2019/09/10/962D.zip
+products.txt: ./2019/09/10/962D.zip
+------------------------------
+output.txt: ./2019/09/10/AIMLLZ.zip
+products.txt: ./2019/09/10/AIMLLZ.zip
+------------------------------
+output.txt: ./2019/09/10/1049A.zip
+products.txt: ./2019/09/10/1049A.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY06.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY06.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0OB.zip
+products.txt: ./2019/09/10/AICS0OB.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY01.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY01.zip
+------------------------------
+output.txt: ./2019/09/10/AIMGH107_3.zip
+products.txt: ./2019/09/10/AIMGH107_3.zip
+------------------------------
+output.txt: ./2019/09/10/AIMGH104_3.zip
+products.txt: ./2019/09/10/AIMGH104_3.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0MC.zip
+products.txt: ./2019/09/10/AICS0MC.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0LB.zip
+products.txt: ./2019/09/10/AICS0LB.zip
+------------------------------
+output.txt: ./2019/09/10/1094D.zip
+products.txt: ./2019/09/10/1094D.zip
+------------------------------
+output.txt: ./2019/09/10/E-5057ParrotwithDrink%20JB.zip
+products.txt: ./2019/09/10/E-5057ParrotwithDrink%20JB.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY05.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY05.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY12.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY12.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0MA.zip
+products.txt: ./2019/09/10/AICS0MA.zip
+------------------------------
+output.txt: ./2019/09/10/1571B.zip
+products.txt: ./2019/09/10/1571B.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLBABYBONNET.zip
+products.txt: ./2019/09/10/SDBLBABYBONNET.zip
+------------------------------
+output.txt: ./2019/09/10/AING108S.zip
+products.txt: ./2019/09/10/AING108S.zip
+------------------------------
+output.txt: ./2019/09/10/1319B.zip
+products.txt: ./2019/09/10/1319B.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY08.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY08.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLGIRLFACE.zip
+products.txt: ./2019/09/10/SDBLGIRLFACE.zip
+------------------------------
+output.txt: ./2019/09/10/1274E.zip
+products.txt: ./2019/09/10/1274E.zip
+------------------------------
+output.txt: ./2019/09/10/1370I.zip
+products.txt: ./2019/09/10/1370I.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0NA.zip
+products.txt: ./2019/09/10/AICS0NA.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLILOVEM4.zip
+products.txt: ./2019/09/10/SDBLILOVEM4.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0RB.zip
+products.txt: ./2019/09/10/AICS0RB.zip
+------------------------------
+output.txt: ./2019/09/10/1814F.zip
+products.txt: ./2019/09/10/1814F.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY07.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY07.zip
+------------------------------
+output.txt: ./2019/09/10/hampshireo.zip
+products.txt: ./2019/09/10/hampshireo.zip
+------------------------------
+output.txt: ./2019/09/10/1836A.zip
+products.txt: ./2019/09/10/1836A.zip
+------------------------------
+output.txt: ./2019/09/10/1498E.zip
+products.txt: ./2019/09/10/1498E.zip
+------------------------------
+output.txt: ./2019/09/10/1369Y.zip
+products.txt: ./2019/09/10/1369Y.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0YC.zip
+products.txt: ./2019/09/10/AICS0YC.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0TB.zip
+products.txt: ./2019/09/10/AICS0TB.zip
+------------------------------
+output.txt: ./2019/09/10/FRINGEFLOWERS2.zip
+products.txt: ./2019/09/10/FRINGEFLOWERS2.zip
+------------------------------
+output.txt: ./2019/09/10/1411C.zip
+products.txt: ./2019/09/10/1411C.zip
+------------------------------
+output.txt: ./2019/09/10/1477C.zip
+products.txt: ./2019/09/10/1477C.zip
+------------------------------
+output.txt: ./2019/09/10/1239A.zip
+products.txt: ./2019/09/10/1239A.zip
+------------------------------
+output.txt: ./2019/09/10/1382E.zip
+products.txt: ./2019/09/10/1382E.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0RC.zip
+products.txt: ./2019/09/10/AICS0RC.zip
+------------------------------
+output.txt: ./2019/09/10/1369W.zip
+products.txt: ./2019/09/10/1369W.zip
+------------------------------
+output.txt: ./2019/09/10/1411E.zip
+products.txt: ./2019/09/10/1411E.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY09.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY09.zip
+------------------------------
+output.txt: ./2019/09/10/AIMGH131_3.zip
+products.txt: ./2019/09/10/AIMGH131_3.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD03.zip
+products.txt: ./2019/09/10/PAM3DCHILD03.zip
+------------------------------
+output.txt: ./2019/09/10/1101E.zip
+products.txt: ./2019/09/10/1101E.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLILOVEM3.zip
+products.txt: ./2019/09/10/SDBLILOVEM3.zip
+------------------------------
+output.txt: ./2019/09/10/AIMGH101_3.zip
+products.txt: ./2019/09/10/AIMGH101_3.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0MB.zip
+products.txt: ./2019/09/10/AICS0MB.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0OC.zip
+products.txt: ./2019/09/10/AICS0OC.zip
+------------------------------
+output.txt: ./2019/09/10/1497E.zip
+products.txt: ./2019/09/10/1497E.zip
+------------------------------
+output.txt: ./2019/09/10/SDBLILOVEMD2.zip
+products.txt: ./2019/09/10/SDBLILOVEMD2.zip
+------------------------------
+output.txt: ./2019/09/10/1320E.zip
+products.txt: ./2019/09/10/1320E.zip
+------------------------------
+output.txt: ./2019/09/10/1949F.zip
+products.txt: ./2019/09/10/1949F.zip
+------------------------------
+output.txt: ./2019/09/10/917E.zip
+products.txt: ./2019/09/10/917E.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0S.zip
+products.txt: ./2019/09/10/AICS0S.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0SB.zip
+products.txt: ./2019/09/10/AICS0SB.zip
+------------------------------
+output.txt: ./2019/09/10/1921C.zip
+products.txt: ./2019/09/10/1921C.zip
+------------------------------
+output.txt: ./2019/09/10/AISTAPPC.zip
+products.txt: ./2019/09/10/AISTAPPC.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DFLW01IVY.zip
+products.txt: ./2019/09/10/PAM3DFLW01IVY.zip
+------------------------------
+output.txt: ./2019/09/10/1370C.zip
+products.txt: ./2019/09/10/1370C.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DCHILD09.zip
+products.txt: ./2019/09/10/PAM3DCHILD09.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0O.zip
+products.txt: ./2019/09/10/AICS0O.zip
+------------------------------
+output.txt: ./2019/09/10/AIDVD118.zip
+products.txt: ./2019/09/10/AIDVD118.zip
+------------------------------
+output.txt: ./2019/09/10/DP0140.zip
+products.txt: ./2019/09/10/DP0140.zip
+------------------------------
+output.txt: ./2019/09/10/1830B.zip
+products.txt: ./2019/09/10/1830B.zip
+------------------------------
+output.txt: ./2019/09/10/D-3543%20Tee%20Up_M.zip
+products.txt: ./2019/09/10/D-3543%20Tee%20Up_M.zip
+------------------------------
+output.txt: ./2019/09/10/1498F.zip
+products.txt: ./2019/09/10/1498F.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0YB.zip
+products.txt: ./2019/09/10/AICS0YB.zip
+------------------------------
+output.txt: ./2019/09/10/1076E.zip
+products.txt: ./2019/09/10/1076E.zip
+------------------------------
+output.txt: ./2019/09/10/AICS0OA.zip
+products.txt: ./2019/09/10/AICS0OA.zip
+------------------------------
+output.txt: ./2019/09/10/PAM3DBUTFLY03.zip
+products.txt: ./2019/09/10/PAM3DBUTFLY03.zip
+------------------------------
+output.txt: ./2019/09/10/AIMGH128_3.zip
+products.txt: ./2019/09/10/AIMGH128_3.zip
+------------------------------
